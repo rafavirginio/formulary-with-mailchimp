@@ -1,5 +1,5 @@
 # Landing page with mailchimp
- Landing Page para geração de cadastros com mailchimp.
+ ## Landing Page para geração de cadastros com mailchimp.
 
 ###  👨‍💻 Desktop Version 
 <img src ="./images-github/image-desktop.gif">
